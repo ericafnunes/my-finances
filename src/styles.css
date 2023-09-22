@@ -2,3 +2,11 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.c-blue{
+    color:#0065cb;
+}
+
+.v-middle{
+    vertical-align: middle;
+}
